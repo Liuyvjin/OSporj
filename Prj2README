@@ -1,0 +1,32 @@
+# 第二次实验文件列表
+刘琎 516020910128
+
+## 一、工程文件结构
+proj2
+├── build
+│   └── Makefile
+├── BurgerBuddies.c
+├── CMakeLists.txt
+├── MergesortMulti.c
+├── MergesortSingle.c
+├── pics
+│   ├── bbc.png
+│   ├── 大数组排序.png
+│   └── 小数组排序.png
+├── Prj2README
+└── 第二次实验报告.md
+
+## 二、文件简介
+1. MergesortSingle.c：
+    第一题（1），单线程归并排序
+2. MergesortMulti.c：
+    第一题（2），多线程归并排序
+3. BurgerBuddies.c：
+    第二题，信号量练习
+4. CMakeLists.txt
+5. build/Makefile:
+    该工程的Makefile。
+6. Prj2README
+7. 第二次实验报告.md:
+    本实验的报告。
+
